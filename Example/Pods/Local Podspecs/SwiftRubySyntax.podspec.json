@@ -1,0 +1,22 @@
+{
+  "name": "SwiftRubySyntax",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftRubySyntax.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/exocode/SwiftRubySyntax",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "exocode": "mail@mediatainment-productions.com"
+  },
+  "source": {
+    "git": "https://github.com/exocode/SwiftRubySyntax.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftRubySyntax/Classes/**/*"
+}

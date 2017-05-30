@@ -1,0 +1,6 @@
+framework module SwiftRubySyntax {
+  umbrella header "SwiftRubySyntax-umbrella.h"
+
+  export *
+  module * { export * }
+}
